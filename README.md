@@ -6,3 +6,10 @@
 放空
 ## Sinb
 ![圖的名字](https://www.woke.id/wp-content/uploads/2020/10/SinB-732x488.jpg)
+```
+#include<studio.h>
+int main()
+{
+printf("hello world");
+}
+```
